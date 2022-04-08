@@ -1,0 +1,20 @@
+ratings = {'hamilton': 5,\
+            'verstappen': 2,\
+            'russell': 6,\
+            'leclerc': 1,\
+            'perez': 4,\
+            'sainz': 3,\
+            'norris': 13,\
+            'ricciardo': 15,\
+            'gasly': 10,\
+            'alonso': 9,\
+            'ocon': 11,\
+            'hulkenberg': 18,\
+            'stroll': 19,\
+            'bottas': 7,\
+            'tsunoda': 14,\
+            'zhou': 12,\
+            'albon': 17,\
+            'latifi': 20,\
+            'schumacher': 16,\
+            'magnussen': 8}
