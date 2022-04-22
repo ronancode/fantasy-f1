@@ -1,25 +1,25 @@
-costs = {'mercedes':    {'cost': 34.3,  'drivers':  {'hamilton': 30.8,\
+costs = {'mercedes':    {'cost': 33.9,  'drivers':  {'hamilton': 30.4,\
                                                     'russell': 23.9}},\
-        'redbull':      {'cost': 32.4,  'drivers':  {'verstappen': 30.5,\
-                                                    'perez': 17.6}},\
-        'ferrari':      {'cost': 25.6,  'drivers':  {'leclerc': 18.5,\
-                                                    'sainz': 17.2}},\
-        'mclaren':      {'cost': 17.9,  'drivers':  {'norris': 15.6,\
+        'redbull':      {'cost': 32.1,  'drivers':  {'verstappen': 30.3,\
+                                                    'perez': 18.0}},\
+        'ferrari':      {'cost': 25.8,  'drivers':  {'leclerc': 18.8,\
+                                                    'sainz': 17.3}},\
+        'mclaren':      {'cost': 17.5,  'drivers':  {'norris': 15.9,\
                                                     'ricciardo': 14.0}},\
-        'alpine':       {'cost': 13.9,  'drivers':  {'alonso': 12.4,\
-                                                    'ocon': 12.2}},\
-        'astonmartin':  {'cost': 11.3,  'drivers':  {'hulkenberg': 11.5,\
-                                                    'stroll': 9.2}},\
-        'alphatauri':   {'cost': 10.4,  'drivers':  {'gasly': 13.4,\
+        'alpine':       {'cost': 14.1,  'drivers':  {'alonso': 12.5,\
+                                                    'ocon': 12.6}},\
+        'astonmartin':  {'cost': 11.0,  'drivers':  {'vettel': 11.4,\
+                                                    'stroll': 9.0}},\
+        'alphatauri':   {'cost': 10.2,  'drivers':  {'gasly': 13.1,\
                                                     'tsunoda': 8.4}},\
-        'alfaromeo':    {'cost': 8.3,   'drivers':  {'bottas': 9.4,\
-                                                    'zhou': 8.1}},\
-        'williams':     {'cost': 6.8,   'drivers':  {'albon': 7.4,\
-                                                    'latifi': 6.9}},\
-        'haas':         {'cost': 6.2,   'drivers':  {'magnussen': 5.9,\
-                                                    'schumacher': 6.5}}}
+        'alfaromeo':    {'cost': 8.4,   'drivers':  {'bottas': 9.4,\
+                                                    'zhou': 8.5}},\
+        'williams':     {'cost': 6.6,   'drivers':  {'albon': 7.1,\
+                                                    'latifi': 6.7}},\
+        'haas':         {'cost': 6.7,   'drivers':  {'magnussen': 6.0,\
+                                                    'schumacher': 6.2}}}
 
-budget = 101
+budget = 102.3
 budget_elise = 100.8
 
 quali_points = [10, 9, 8, 7, 6, 5, 4, 3, 2, 1]

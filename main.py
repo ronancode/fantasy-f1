@@ -4,7 +4,10 @@ from data import costs
 from data import budget_elise as budget
 from data import quali_points
 from data import race_points
-from ratings_elise import ratings
+from data import budget
+from ratings import ratings
+# from data import budget_elise as budget
+# from ratings_elise import ratings
 
 # Generate points from ratings and add cost
 info = {'teams' : {}, 'drivers': {}}

@@ -1,20 +1,20 @@
-ratings = {'hamilton': 5,\
+ratings = {'hamilton': 8,\
             'verstappen': 2,\
-            'russell': 6,\
+            'russell': 9,\
             'leclerc': 1,\
             'perez': 4,\
             'sainz': 3,\
-            'norris': 13,\
+            'norris': 14,\
             'ricciardo': 15,\
             'gasly': 10,\
-            'alonso': 9,\
-            'ocon': 11,\
-            'hulkenberg': 18,\
-            'stroll': 19,\
-            'bottas': 7,\
-            'tsunoda': 14,\
-            'zhou': 12,\
-            'albon': 17,\
+            'alonso': 5,\
+            'ocon': 7,\
+            'vettel': 16,\
+            'stroll': 18,\
+            'bottas': 12,\
+            'tsunoda': 13,\
+            'zhou': 17,\
+            'albon': 19,\
             'latifi': 20,\
-            'schumacher': 16,\
-            'magnussen': 8}
+            'schumacher': 11,\
+            'magnussen': 6}
