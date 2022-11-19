@@ -1,7 +1,6 @@
 from collections import deque
 
 from data import costs
-from data import budget_elise as budget
 from data import quali_points
 from data import race_points
 from data import budget
@@ -30,7 +29,7 @@ for team, team_info_dict in info['teams'].items():
     team_points = team_info_dict['points']
     # Generate all in-budget driver combinations and find best point scoring team
     # Driver 1
-    selected_drivers = ['', '', '', '', '']
+    selected_drivers = ['sainz', '', '', '', '']
     driver1_picks = []
     for driver1, driver1_dict in info['drivers'].items():
         driver1_cost = driver1_dict['cost']
